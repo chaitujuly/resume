@@ -1,0 +1,23 @@
+body{
+  background: yellow;
+  text-align:center;
+}
+img{
+  width: 50%;
+}
+.card{
+  background-color:lightgreen;
+  border-radius: 1.5em;
+
+
+}
+#card{
+  justify-content: space-around;
+  display:flex;
+  margin: 2%;
+  border-radius: 1.5em;
+}
+
+.card:hover{
+	box-shadow: 0 8px 8px 10px red;
+}
